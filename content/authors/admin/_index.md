@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nana Ofosu Asante
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nana Ofosu
+last_name: Asante
 
 # Status emoji
 status:
@@ -17,34 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ETH Zurich
+    url: https://ethz.ch/en.html
+  -name: Ashesi University
+    url: https://www.ashesi.edu.gh
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Neuroprostheses, Sensorimotor control, Control theory and Machine Learning.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Control theory
+  - Neuroprostheses
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MAS Advanced Funcdamentals of Mechatronics Engineering
+      institution: ETH Zurich
+      year: 2024
+    - course: MSc Mechatronics Engineering
+      institution: Ashesi University
+      year: 2024
+    - course: BSc Electrical/Electronics Engineering
+      institution: Kwame Nkrumah Univerisity of Science and technology
+      year: 2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,14 +58,14 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Matlab
         description: ''
-        percent: 40
+        percent: 100
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -75,7 +77,7 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Swimming
         description: ''
         percent: 100
         icon: cat
@@ -108,7 +110,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nanaasante?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
