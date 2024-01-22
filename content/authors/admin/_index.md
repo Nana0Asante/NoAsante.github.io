@@ -23,7 +23,7 @@ role: Graduate Student
 organizations:
   - name: ETH Zurich
     url: https://ethz.ch/en.html
-  -name: Ashesi University
+  - name: Ashesi University
     url: https://www.ashesi.edu.gh
 
 # Short bio (displayed in user profile at end of posts)
